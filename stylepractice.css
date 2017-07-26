@@ -1,0 +1,59 @@
+font-family: 'Passion One', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Bowlby One', cursive;
+font-family: 'Poiret One', cursive;
+
+html{
+  margin: 0;
+}
+
+.jumbotron {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to right, #ffecd2, #fcb69f);
+    ;
+}
+
+
+.jumbotron h2 {
+  font-size: 100px;
+  margin: 0;
+  color: #fff;
+  font-family: 'Poiret One';
+  border-color: white;
+  border-width: : 10px;
+  border-style: solid;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+}
+
+
+#options{
+  text-align: center;
+  color: #ffecd2;
+  font-family: 'Passion One';
+  font-weight: 60px;
+  font-size: 60px;
+  text-shadow: 2px 2px #fcb69f;
+  text-orientation: center;
+  display: block;
+  align-items: center;
+}
+
+.container #designwork{
+  background-image: url(http://axiomdesigns.com/wp-content/uploads/2016/11/pace-oregon-state-web-design-graphic.jpg);
+  width: 500px;
+  height: 500px;
+  margin: 10px;
+  background-size: cover;
+  background-position: 50%;
+  }
+
+.container #webprojects{
+  background-image: url(https://static.wixstatic.com/media/855305_dd45a0b2919f4e638d2fa8db8f1e5acf.jpg/v1/fill/w_1202,h_801,al_c,q_90,usm_0.66_1.00_0.01/855305_dd45a0b2919f4e638d2fa8db8f1e5acf.webp);
+  width: 500px;
+  height: 500px;
+  margin: 10px;
+  background-size: cover;
+  background-position: 50%;
+  }
